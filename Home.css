@@ -1049,12 +1049,13 @@
   }
   
   .pagonecard img:hover{
-    transform: scale(0.9);
+    transform: scale(1.1);
 }
 
 .pagonecard img{
 
   transition: transform 1s;
+  border-radius: 8px;
 }
 
   .u-section-5 .u-container-layout-2 {
