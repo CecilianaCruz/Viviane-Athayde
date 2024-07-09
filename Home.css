@@ -1039,7 +1039,24 @@
     background-image: url("images/imgterap.png");
     background-position: 50% 50%;
   }
+
+  .pagonecard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    transform: 1s;
+  }
   
+  .pagonecard img:hover{
+    transform: scale(0.9);
+}
+
+.pagonecard img{
+
+  transition: transform 1s;
+}
+
   .u-section-5 .u-container-layout-2 {
     padding: 0;
   }
