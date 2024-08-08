@@ -555,10 +555,11 @@
     background-position: 50% 50%;
   }
 
-  .u-section-3 .u-image-5 {
+  .u-section-3 .u-image-10 {
     min-height: 532px;
-    background-image: url("images/boobk.webp");
+    background-image: url("images/boobk.webp.png");
     background-position: 50% 50%;
+
   }
   
   .u-section-3 .u-container-layout-1 {
@@ -695,7 +696,7 @@
       margin-bottom: 80px;
     }
   
-    .u-section-3 .u-image-1 {
+    .u-section-3 .u-image-1 .u-image-6 {
       min-height: 638px;
     }
   
